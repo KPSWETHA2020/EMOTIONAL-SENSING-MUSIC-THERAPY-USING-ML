@@ -1,4 +1,4 @@
-# EMOTION_BASED_MUSIC_RECOMMENDATION_SYSTEM </br >(Mini-project)
+# EMOTIONAL_SENSING_MUSIC_THERAPY_SYSTEM </br >(Mini-project)
 
 
 This project is a Streamlit application that recommends songs based on users' captured emotions. It uses computer vision techniques to detect emotions from video frames and provides song recommendations on YouTube or Spotify.
@@ -165,8 +165,8 @@ if btn:
 
 ## Result:
 
-The Emotion Based Music Recommender project is a real-time application that captures users' emotions through their webcam and provides personalized song recommendations. By leveraging computer vision techniques and a pre-trained emotion classification model, the application accurately detects users' emotions and overlays them on the live video stream.
+The Emotional sensing music therapy project is a real-time application that captures users' emotions through their webcam and provides personalized song recommendations. By leveraging computer vision techniques and a pre-trained emotion classification model, the application accurately detects users' emotions and overlays them on the live video stream.
 
-With the Emotion Based Music Recommender, users can explore a personalized music playlist tailored to their emotions, language, and preferred artist. Whether they want to discover new songs or find comfort in familiar melodies, this project enhances the music listening experience by leveraging the power of computer vision and machine learning.
+With the Emotional sensing music therapy project, users can explore a personalized music playlist tailored to their emotions, language, and preferred artist. Whether they want to discover new songs or find comfort in familiar melodies, this project enhances the music listening experience by leveraging the power of computer vision and machine learning.
 
 The project is a valuable tool for music enthusiasts, researchers, and developers interested in emotion recognition, recommendation systems, and human-computer interaction.
